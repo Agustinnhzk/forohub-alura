@@ -59,6 +59,8 @@ api.security.secret=TU_CLAVE_SECRETA_PARA_JWT
 Ejecutar la aplicación desde IntelliJ y realizar las pruebas mediante Postman o Insomnia.
 
 👤 Autor
+
+
 <img src="assets/autor.jpg" alt="Agus" width="120" style="border:4px solid #4CAF50;">
 
 Agustín Negri Hrytezuk
