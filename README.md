@@ -31,6 +31,16 @@ Seguridad Stateless: Implementación de un escáner de seguridad que exige un To
 
 Tratamiento de Errores: Panel de control global que captura excepciones y devuelve respuestas JSON limpias y profesionales ante cualquier fallo del sistema.
 
+
+## 🔌 Endpoints Principales
+   Método     | Endpoint       | Descripción
+## POST	         /login 	        Autentica usuario y devuelve el JWT.
+## GET	         /topicos	        Lista todos los tópicos registrados.
+## POST          /topicos       	Registra un nuevo tópico (Requiere Token).
+## PUT	         /topicos/{id}    Actualiza un tópico existente (Requiere Token).
+## DELETE	       /topicos/{id}	  Elimina un tópico por ID (Requiere Token).
+
+
 ## 🚀 Arquitectura del Proyecto
 El sistema está diseñado siguiendo buenas prácticas de Cyber Defense y separación de responsabilidades:
 
