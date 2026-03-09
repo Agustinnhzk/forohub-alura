@@ -33,12 +33,14 @@ Tratamiento de Errores: Panel de control global que captura excepciones y devuel
 
 
 ## 🔌 Endpoints Principales
-   Método     | Endpoint       | Descripción
-## POST	         /login 	        Autentica usuario y devuelve el JWT.
-## GET	         /topicos	        Lista todos los tópicos registrados.
-## POST          /topicos       	Registra un nuevo tópico (Requiere Token).
-## PUT	         /topicos/{id}    Actualiza un tópico existente (Requiere Token).
-## DELETE	       /topicos/{id}	  Elimina un tópico por ID (Requiere Token).
+
+| Método | Endpoint | Descripción |
+| :--- | :--- | :--- |
+| **POST** | `/login` | Autentica usuario y devuelve el JWT. |
+| **GET** | `/topicos` | Lista todos los tópicos registrados. |
+| **POST** | `/topicos` | Registra un nuevo tópico (Requiere Token). |
+| **PUT** | `/topicos/{id}` | Actualiza un tópico existente (Requiere Token). |
+| **DELETE** | `/topicos/{id}` | Elimina un tópico por ID (Requiere Token). |
 
 
 ## 🚀 Arquitectura del Proyecto
