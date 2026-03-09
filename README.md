@@ -77,4 +77,4 @@ Ejecutar la aplicación desde IntelliJ y realizar las pruebas mediante Postman o
 
 Agustín Negri Hrytezuk
 
-GitHub <img src="assets/github.png" alt="git" width="30"/> | LinkedIn <img src="assets/linkedin.png" alt="linkedin" width="30"/>
+[GitHub](https://github.com/Agustinnhzk) <img src="assets/github.png" alt="git" width="30"/> | [LinkedIn](https://www.linkedin.com/in/agustín-negri-55b0a4281) <img src="assets/linkedin.png" alt="linkedin" width="30"/>
